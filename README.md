@@ -13,7 +13,7 @@
 
 1. **레포지토리 클론**:
     ```bash
-    git clone https://github.com/your-username/url-shortener-go.git](https://github.com/jodan90/shorturl.git
+    git clone https://github.com/jodan90/shorturl.git
     cd url-shortener-go
     ```
 
